@@ -1,0 +1,9 @@
+Features:
+1) CRUD
+2) Auto create Tag/Category while creating article if tag is not available and assign foreign key automatically
+3) Update and Delete in Tag table will be effect in Article table foreign key and tag column
+4) Article search by author, date, tag, title, id. 
+5) Bookmark article for later reading, remove, show bookmarks by user
+6) Trending news Section / Last N trending news / Trending news by date
+7) Share on social media / get shares by user/ get shares by platform / delete share
+8) Exported CSV of article
